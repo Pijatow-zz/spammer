@@ -1,2 +1,2 @@
-## spammer
-    spam whatever you want many times you want
+## Spammer
+    Spam Whatever You Want Many Times You Want
